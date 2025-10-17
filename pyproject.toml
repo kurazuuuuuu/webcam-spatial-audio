@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = [
     "mediapipe",
+    "opencv-python",
+    "python-dotenv",
 ]
